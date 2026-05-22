@@ -1,0 +1,9 @@
+JOINING LETTER
+==============
+Name: Ali Hassan
+University: LUMS
+Internship: Web Developer
+Company: TechCorp PK
+Start Date: January 10, 2026
+Duration: 3 Months
+Status: Approved
